@@ -25,4 +25,11 @@ addLayer("p", {
         {key: "p", description: "P: Sacrifice tears for pain", onPress(){if (canReset(this.layer)) doReset(this.layer)}},
     ],
     layerShown(){return true}
+	    upgrades: {
+            11: {
+                title: "Wet eyes",
+                description: "2x more tears",
+                cost: new Decimal(1),
+        },
+    },
 })
