@@ -1,7 +1,7 @@
 let modInfo = {
-	name: "The ??? Tree",
-	author: "nobody",
-	pointsName: "Tears",
+	name: "The very cursed Tree",
+	author: "JTCCRAFT",
+	pointsName: "Dice",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
@@ -18,10 +18,10 @@ let VERSION = {
 
 let changelog = `<h1>Changelog:</h1><br>
 	<h3>v0.0</h3><br>
-		- Added suffering.<br>
-		- Added Pain, and sadness.`
+		- Added nothing.<br>
+		- Added ur mum.`
 
-let winText = `why you monster you suck you should be ashamed of yourself.`
+let winText = `AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA`
 
 // If you add new functions anywhere inside of a layer, and those functions have an effect when called, add them here.
 // (The ones here are examples, all official functions are already taken care of)
